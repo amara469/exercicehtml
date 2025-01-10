@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Robotto;
+}
+
+header nav li{
+    display: inline-block;
+    margin: 10px;
+    flex: 1;
+
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul{
+    background-color:black;
+    padding: 15px;
+    color: white;
+}
+section{
+    margin: 30px;
+}
+#home {
+    padding: 15px;
+    margin: 15px;
+    background-color:#78B3CE
+}
+.home
+{
+    background-color: rgb(187, 127, 255);
+}
+sectionhome{
+    margin: 5px;
+    padding: 5px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+sectionhome OIP.jpg{
+    background-color: blue;
+    border-radius: 10px;
+    width: 1000px;
+}
+section:hover {
+    color: white
+}
+
+
+
+
+
+    
+    
+
+
+
